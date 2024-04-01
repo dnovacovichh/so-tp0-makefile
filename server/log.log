@@ -1,0 +1,11 @@
+[INFO] 05:30:55:489 Servidor/(32638:32638): Iniciando servidor...
+[INFO] 05:30:55:489 Servidor/(32638:32638): Servidor listo para recibir al cliente
+[INFO] 05:31:19:444 Servidor/(32638:32638): Se conecto un cliente!
+[ERROR] 05:31:19:449 Servidor/(32638:32638): el cliente se desconecto. Terminando servidor
+[INFO] 05:35:52:588 Servidor/(33417:33417): Iniciando servidor...
+[INFO] 05:35:52:589 Servidor/(33417:33417): Servidor listo para recibir al cliente
+[INFO] 05:35:59:981 Servidor/(33417:33417): Se conecto un cliente!
+[INFO] 05:35:59:981 Servidor/(33417:33417): Me llegaron los siguientes valores:
+
+[INFO] 05:35:59:982 Servidor/(33417:33417): 1
+[ERROR] 05:35:59:982 Servidor/(33417:33417): el cliente se desconecto. Terminando servidor

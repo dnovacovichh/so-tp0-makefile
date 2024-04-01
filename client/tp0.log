@@ -1,0 +1,20 @@
+[INFO] 05:35:39:578 tp0/(33385:33385): Logger iniciado correctamente.
+[INFO] 05:35:39:581 tp0/(33385:33385): Iniciando configuración...
+[INFO] 05:35:39:585 tp0/(33385:33385): Configuración realizada correctamente.
+[INFO] 05:35:39:592 tp0/(33385:33385): La clave es: La clave del config
+[INFO] 05:35:39:602 tp0/(33385:33385): La ip es: 127.0.0.1
+[INFO] 05:35:39:603 tp0/(33385:33385): La puerto es: 4444
+[INFO] 05:35:39:603 tp0/(33385:33385): La valor es: 1
+[INFO] 05:35:39:603 tp0/(33385:33385): Creando conexión...
+[INFO] 05:35:39:603 tp0/(33385:33385): Conexión creada. Socket: 4
+[INFO] 05:35:59:980 tp0/(33448:33448): Logger iniciado correctamente.
+[INFO] 05:35:59:980 tp0/(33448:33448): Iniciando configuración...
+[INFO] 05:35:59:980 tp0/(33448:33448): Configuración realizada correctamente.
+[INFO] 05:35:59:981 tp0/(33448:33448): La clave es: La clave del config
+[INFO] 05:35:59:981 tp0/(33448:33448): La ip es: 127.0.0.1
+[INFO] 05:35:59:981 tp0/(33448:33448): La puerto es: 4444
+[INFO] 05:35:59:981 tp0/(33448:33448): La valor es: 1
+[INFO] 05:35:59:981 tp0/(33448:33448): Creando conexión...
+[INFO] 05:35:59:981 tp0/(33448:33448): Conexión creada. Socket: 4
+[INFO] 05:35:59:982 tp0/(33448:33448): Terminando programa.....
+[INFO] 05:35:59:982 tp0/(33448:33448): Memoria liberada correctamente
